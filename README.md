@@ -7,4 +7,3 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-tabarelli&repo=gerador-de-cores&theme=dracula)  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-tabarelli&repo=TestesUnitarios-JUnit5&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-![snake gif](https://github.com/gabriel-tabarelli/gabriel-tabarelli/blob/output/github-contribution-grid-snake.svg)
